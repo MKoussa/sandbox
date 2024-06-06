@@ -1,6 +1,6 @@
 # SandBox
 
-**TODO: Add description**
+Exploring Elixir
 
 ## Installation
 
