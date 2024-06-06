@@ -1,6 +1,6 @@
 defmodule Division do
   @moduledoc """
-  Documentation for MKoussa's wild-n-wonky Math"
+  Documentation for MKoussa's safe Math"
 
   ## Examples
       iex> Division.safediv(2,4)
